@@ -71,6 +71,15 @@ do not ask BAU creaet daahboard, each project need to buidl dashbord for bau, i 
 BAU cost related dashboard.
 
 
+inferrance stored result. 
+busienes will ask claim #1234 why it calcualte bal bla. where is the evident ? bla bal..
+BAU position ? IMF pposition ?
+
+
+Notebook deploy model to prodction, ITSS approval ?
+monriigg on-gloing performace, matrix prediction, 
+IMF user ask BAU ?? what seniaro IMF will ask BAU ?
+
 
 data scient user's view there capabilbity, using R only , sagemaker stuido support R ??
 BAU user's view, what is supproitng ? user adding, in AD ? depends on access secuirty model.
