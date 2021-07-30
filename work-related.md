@@ -56,5 +56,13 @@ request Input API ? any transformation (ex string to numeric)
 ECR Repo, access
 
 
+=========
+
+moniroing and alerting,
+traning, billable , how ? and details ? dashboard ? spot instance (baiillabe getting down)  vs on-demand ? business demand ?
+dashboard for Ops, Cost, for IMF , 
+tagging, identify, cost related resources, 
+- tranning done, resource stopped , 
+
 
 
