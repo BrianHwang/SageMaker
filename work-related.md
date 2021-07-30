@@ -64,5 +64,7 @@ dashboard for Ops, Cost, for IMF ,
 tagging, identify, cost related resources, 
 - tranning done, resource stopped , 
 
+- sagemaker stuido prcing : per suer ? user dashboard, usage, training billable tiem, data engineerting tiem ...
 
+do not ask BAU creaet daahboard, each project need to buidl dashbord for bau, i have doen for my eniter project and 3pp as well.
 
