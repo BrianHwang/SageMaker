@@ -29,10 +29,10 @@ Save the code into Repo . how ?
 
 
 SageMaker Studio
-
-AMI?
-Access by user? How ? 
-
+user access : listing users  : AD connect ?
+              oepn brower over aws console ?  HOW?
+              AMI
+source code notebook git ?
 
 SageMaker Traning
 
