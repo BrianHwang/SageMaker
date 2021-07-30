@@ -69,3 +69,15 @@ tagging, identify, cost related resources,
 do not ask BAU creaet daahboard, each project need to buidl dashbord for bau, i have doen for my eniter project and 3pp as well.
 
 BAU cost related dashboard.
+
+
+
+data scient user's view there capabilbity, using R only , sagemaker stuido support R ??
+BAU user's view, what is supproitng ? user adding, in AD ? depends on access secuirty model.
+tracking un-useal or high cumsompuion resource .. cost ..
+
+
+
+Glue :data enginieering feature enginnering, 
+glue is more data engineering tool no longer BAU working on adding feature and tranformation..
+
