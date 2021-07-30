@@ -82,6 +82,9 @@ IMF user ask BAU ?? what seniaro IMF will ask BAU ?
 
 
 data scient user's view there capabilbity, using R only , sagemaker stuido support R ??
+https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/
+Docker, BAU maintaince ? 
+
 BAU user's view, what is supproitng ? user adding, in AD ? depends on access secuirty model.
 tracking un-useal or high cumsompuion resource .. cost ..
 
