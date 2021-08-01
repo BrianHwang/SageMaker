@@ -20,3 +20,7 @@
 # MPE : Mean Percentage Error
 - simialer with MAPE but without absolute operation.
 - show positive errors, negative errors.
+
+# KPI
+## R^2 : Coefficent
+- goodness of fit
