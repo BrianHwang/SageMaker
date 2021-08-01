@@ -29,6 +29,13 @@ Save the code into Repo . how ?
 
 
 SageMaker Studio
+
+TYPES OF AVAILABLE SAGEMAKER IMAGES 
+what are they?
+- Data Science [datascience-1.0]: Data Science is a Conda image with the most commonly used Python packages and libraries, such as NumPy and SciKit Learn.
+MXNet, PyTorch, Tensorflow.
+
+
 user access : listing users  : AD connect ?
               oepn brower over aws console ?  HOW?
               AMI
