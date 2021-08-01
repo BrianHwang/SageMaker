@@ -1,18 +1,22 @@
 # MAE : Mean Absoulte Error
-calculate teh residual of every data points
-calulate the **absolute** value
-calculate the average of all residuals
+1. calculate teh residual of every data points
+2. calulate the **absolute** value
+3. calculate the average of all residuals
 
 # MSE : Mean Square Error
-calculate teh residual of every data points
-calculate teh **squared** value of residuals
-Calculate the avaage of all residuals
+1. calculate teh residual of every data points
+2. calculate teh **squared** value of residuals
+3. Calculate the avaage of all residuals
 
 # RMSE : Root mean square Error
-calculate teh residual of every data points
-calculate teh **squared** value of residuals
-Calculate the avaage of the squared residuals
-Obtain the **square root** of the result.
+1. calculate teh residual of every data points
+2. calculate teh **squared** value of residuals
+3. Calculate the avaage of the squared residuals
+4. Obtain the **square root** of the result.
 
 # MAPE : Mean Absolute Percentage Rerror
-same as MAE and Percentage.
+- same as MAE and Percentage.
+
+# MPE : Mean Percentage Error
+- simialer with MAPE but without absolute operation.
+- show positive errors, negative errors.
