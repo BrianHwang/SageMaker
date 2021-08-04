@@ -128,7 +128,7 @@ retraining.
 
 Freedom to Data scienet upto 2, restiection on deploy model for 3. 
 monriting, resource creation, uesage, are cirital to use expensive resources. 
-
+(IAM remove sagemaker.deploy role? is it possbile ?)
 
 (?) sagemaker with airflow ? what is airflow ? 
 https://sagemaker.readthedocs.io/en/stable/v2.html
