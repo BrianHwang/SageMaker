@@ -1,6 +1,6 @@
 # Sagemaker
 - sagemaker stuido
-- trainig project 4, 
+- trainig project 3, 
 - studio matrix viewing.
 - deploy
 - resource creation check.
