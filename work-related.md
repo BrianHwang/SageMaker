@@ -132,3 +132,4 @@ monriting, resource creation, uesage, are cirital to use expensive resources.
 
 (?) sagemaker with airflow ? what is airflow ? 
 https://sagemaker.readthedocs.io/en/stable/v2.html
+https://sagemaker.readthedocs.io/en/stable/workflows/airflow/sagemaker.workflow.airflow.html
