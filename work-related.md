@@ -126,4 +126,7 @@ repeat. 2, or 1->2 if other alothgirems use.
 
 retraining.
 
+Freedom to Data scienet upto 2, restiection on deploy model for 3. 
+monriting, resource creation, uesage, are cirital to use expensive resources. 
+
 
