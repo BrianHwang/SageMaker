@@ -6,3 +6,7 @@
 - resource creation check.
 - submib over endpoint.
 - 
+
+
+# A Cloud Guru
+- Sagemaker or Glue deep dive ?
