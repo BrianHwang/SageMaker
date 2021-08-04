@@ -115,13 +115,14 @@ what if sagemaker notebook, how hard to give permrance matrix provide? any code 
 
 
 
-raw data -> data anaysis (null? empty? visulaised, manupliate )-> feature enginnering (missing data from other ML)-> ML input data (traning set, validate set, test set)
+1. raw data -> data anaysis (null? empty? visulaised, manupliate )-> feature enginnering (missing data from other ML)-> ML input data (traning set, validate set, test set)
+ML input data depends on potencial traning algorithm. 
 
-ML input data -> hyperparameter tunu -> traning -> reuslt with perfoamce matrix (recall, F1, presicion...)
+2. ML input data -> hyperparameter tunu -> traning -> reuslt with perfoamce matrix (recall, F1, presicion...)
 
-repeat.
+repeat. 2, or 1->2 if other alothgirems use.
 
-model -> deploy -> endpoint -> perfoamce monitoring. -> data stored for retraining.
+3. model -> deploy -> endpoint -> perfoamce monitoring. -> data stored for retraining.
 
 retraining.
 
