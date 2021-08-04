@@ -136,5 +136,8 @@ https://sagemaker.readthedocs.io/en/stable/workflows/airflow/sagemaker.workflow.
 
 
 
+EXPERIMENT : code level 
+very afrid of data scientist capabilty, program , bau 
+
 sagemaker autopilot deploy give option, to save requert, save response.
 what is normal way to save request, response ?
