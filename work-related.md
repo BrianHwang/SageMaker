@@ -102,3 +102,5 @@ tracking un-useal or high cumsompuion resource .. cost ..
 Glue :data enginieering feature enginnering, 
 glue is more data engineering tool no longer BAU working on adding feature and tranformation..
 
+- TAG
+- -sagemaker internal ec2 for traning or deploy , no tag no trigger, to prevent
