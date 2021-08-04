@@ -120,7 +120,7 @@ ML input data depends on potencial traning algorithm.
 
 2. ML input data -> hyperparameter tunu -> traning -> reuslt with perfoamce matrix (recall, F1, presicion...)
 
-repeat. 2, or 1->2 if other alothgirems use.
+repeat. 2, or 1->2 if other alothgirems use. (experiment)
 
 3. model -> deploy -> endpoint -> perfoamce monitoring. -> data stored for retraining.
 
