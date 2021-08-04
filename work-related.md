@@ -112,5 +112,5 @@ how recision, recall is important ?
 sagemaker studio, how it is easier to give performacne to data scietnet ?
 what if sagemaker notebook, how hard to give permrance matrix provide? any code reuired build ?
 
-![image](https://user-images.githubusercontent.com/24234662/128103176-85b094fb-62c3-4ab3-8f8d-4a4f60f845f8.png)
+
 
