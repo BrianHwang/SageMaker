@@ -104,3 +104,10 @@ glue is more data engineering tool no longer BAU working on adding feature and t
 
 - TAG
 - -sagemaker internal ec2 for traning or deploy , no tag no trigger, to prevent
+
+
+
+claim triage, callficiation,
+how recision, recall is important ? 
+sagemaker studio, how it is easier to give performacne to data scietnet ?
+what if sagemaker notebook, how hard to give permrance matrix provide? any code reuired build ?
