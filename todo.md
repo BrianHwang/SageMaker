@@ -1,6 +1,7 @@
 # Sagemaker
 - sagemaker stuido
 - trainig project 3, 
+- **EXPERIMENT** how it can be show the matrix
 - studio matrix viewing.
 - deploy
 - resource creation check.
