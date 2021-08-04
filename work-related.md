@@ -139,5 +139,17 @@ https://sagemaker.readthedocs.io/en/stable/workflows/airflow/sagemaker.workflow.
 EXPERIMENT : code level 
 very afrid of data scientist capabilty, program , bau 
 
+
+
+
+
+invlove program for 
+- asking right question, 
+- BAU dashboard
+- BAU alerting, monitoring
+- BAU acitivices, (user adding, user to do what, resource control, lifecycle)
+- new beast never seen before. 
+- do not blame because bau did not ask, program shoudl pro-active to provide more details before bau asked. 
+
 sagemaker autopilot deploy give option, to save requert, save response.
 what is normal way to save request, response ?
