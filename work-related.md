@@ -153,3 +153,17 @@ invlove program for
 
 sagemaker autopilot deploy give option, to save requert, save response.
 what is normal way to save request, response ?
+
+
+
+
+# new MLOps.
+- Sagemaker studio notebook, 
+- powerful when user knows programming, data engeering, data scient (algoritm, hypterparameter) and AWS (S3, instance type .... )
+- Dagerous when user does not eunugh know any single fields.
+- it will kick off compute resources out side of VPC, deploy to model.
+- how it can be used ? in IMF Data scieent 
+- if know enough then, it will be great tool, but it looks difficult to use to me , :(
+
+
+
