@@ -200,3 +200,8 @@ need to think in the future of cloud mataticty.
 - then terrarom ?
 - not good solution.
 - how it allows jyperparameter job allowd?
+- - i wnat to focus IMF 
+- good knwoing the issue
+- good to prevent not the best intersitng on BAU intertingin
+- need to invest future 
+- please do not allocate me for previuse issues.
