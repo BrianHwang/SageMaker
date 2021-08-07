@@ -32,7 +32,8 @@ SageMaker Studio
 
 TYPES OF AVAILABLE SAGEMAKER IMAGES 
 what are they?
-- Data Science [datascience-1.0]: Data Science is a Conda image with the most commonly used Python packages and libraries, such as NumPy and SciKit Learn.
+- Data Science [datascience-1.0]: Data Science is a Conda image with the most commonly used Python packages and libraries, such as NumPy and SciKit 
+- Learn.
 MXNet, PyTorch, Tensorflow.
 
 
@@ -56,6 +57,15 @@ approved by security
 
 
 SageMaker Inference
+
+
+
+# terraform 
+- airflow, glue, and sagemaker, notebook.. 
+- what actual python code are manainged over terraforme and running ? 
+- how it can be control over terrafome ? or sort of source code ? how it runs, modify and update in terrafrome or outside of terraform.
+
+
 
 AMI?
 futher details ?
