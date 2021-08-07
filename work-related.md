@@ -187,6 +187,10 @@ it is no longer terraform only support cloud as code.
 user access, runntime change, apply . 
 need to think in the future of cloud mataticty. 
 
+# to mick
+- this is new whole beast.
+- need to prepare it. not clean under name of matuiary. too late if we do not voice out.
+
 
 
 # hyperparameter.
