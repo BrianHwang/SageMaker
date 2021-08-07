@@ -208,3 +208,7 @@ need to think in the future of cloud mataticty.
 - not good solution.
 - how it allows jyperparameter job allowd?
 
+# endpoint (afer delplyment)
+- only creatre when model is production 
+- lamba need or similar to trenafer model expect. input output
+- how program support it ?
