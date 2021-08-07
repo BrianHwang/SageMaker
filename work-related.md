@@ -188,3 +188,11 @@ user access, runntime change, apply .
 need to think in the future of cloud mataticty. 
 
 
+
+# hyperparameter.
+- data scientist need it.
+- goog tool is Sagemaker console on aws.
+- not allowd
+- then terrarom ?
+- not good solution.
+- how it allows jyperparameter job allowd?
