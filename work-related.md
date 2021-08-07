@@ -176,4 +176,15 @@ internet access : it may requried to install packages (i.e. sagemaker-experiemen
 - if know enough then, it will be great tool, but it looks difficult to use to me , :(
 
 
+# Azure ML
+- Azure ML designer, (stuido) : tool for data scientist using with drag and drop
+- BAU is not drag and drop -> same as Sagemaker.
+- what BAU allows to user (data scientist and other engineer) to access AWS console or Azure portal
+
+# BAU challenage.
+more complex services and more advanced featuere are adding on cloud service.
+it is no longer terraform only support cloud as code. 
+user access, runntime change, apply . 
+need to think in the future of cloud mataticty. 
+
 
