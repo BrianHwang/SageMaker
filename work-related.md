@@ -190,7 +190,14 @@ need to think in the future of cloud mataticty.
 # to mick
 - this is new whole beast.
 - need to prepare it. not clean under name of matuiary. too late if we do not voice out.
-
+- - i wnat to focus IMF 
+- good knwoing the issue
+- good to prevent not the best intersitng on BAU intertingin
+- need to invest future 
+- please do not allocate me for previuse issues.
+- - ****
+- tempus experiecne, both worksafe and tac
+- can be good for ITSS so support both orgn
 
 
 # hyperparameter.
@@ -200,8 +207,4 @@ need to think in the future of cloud mataticty.
 - then terrarom ?
 - not good solution.
 - how it allows jyperparameter job allowd?
-- - i wnat to focus IMF 
-- good knwoing the issue
-- good to prevent not the best intersitng on BAU intertingin
-- need to invest future 
-- please do not allocate me for previuse issues.
+
