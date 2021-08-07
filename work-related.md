@@ -198,6 +198,7 @@ need to think in the future of cloud mataticty.
 - - ****
 - tempus experiecne, both worksafe and tac
 - can be good for ITSS so support both orgn
+- - give me a trust to my voice up, for itss and bau
 
 
 # hyperparameter.
