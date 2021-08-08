@@ -13,3 +13,12 @@
   - data structure within the data stores
 - linked service
   - teh connection string nneds to connect to the data
+
+
+# Databricks
+- cluster
+- Workspaces
+- notebook (folder : jupyter)
+- cell
+- lib
+- tables
